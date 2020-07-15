@@ -4,6 +4,7 @@ I write a very very very simple application that recognizes picture scenes using
 Here's a video of the run time
 
 [vplayer url="https:\/\/littlefisher.oss-cn-beijing.aliyuncs.com\/%E5%9C%BA%E6%99%AF%E8%AF%86%E5%88%ABAPI%E5%BA%94%E7%94%A8.mp4"  /]
+（Forgive me that I can't tell the rhino from the hippopotamus)
 
 ## About
 It can help you Identify the content and scene of the images.    
