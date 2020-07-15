@@ -18,3 +18,5 @@ To learn how to use API.
 2.I have put my own API keys and the Secret Keys here as nobody is going to see this simple project, but it is also very nice of you to use your own key!
 
 PS：I do not like to write a readme in English... Maybe I have to focue on English later on...
+
+By the way, welcome to play with me and.... leave a message. [LittleFisher's Blog](https://www.littlefisher.cn/)
