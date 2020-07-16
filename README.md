@@ -1,8 +1,8 @@
 # APP-PIC-Recgonize
 
 ## 说明
-**Pic To Text** & **Pic To Music**
-无数不足点emmmmmm
+**Pic To Text** & **Pic To Music**           
+无数不足点emmmmmm        
 API_Test中的文件请看文档描述，这样不至于头大...
 
 ## Pic To Text
@@ -27,7 +27,7 @@ It can help you Identify the content and scene of the images.
 
 2020.07.16
 
-Here's the vedio of the run time.
+Here's the vedio of the run time.          
 [vplayer url="https:\/\/littlefisher.oss-cn-beijing.aliyuncs.com\/Pic_Music%20%281%29.mp4"  /]
 
 ### About 
