@@ -1,0 +1,23 @@
+这是对应的PicCuttingAPI_CpfrmAli.py的JSON返回值
+
+"E:\Gluttonous Snake\Scripts\python.exe" E:/工作啊/竞赛/API_test/PicCuttingAPI_CpfrmAli.py
+{'error_code': 0,
+'error_msg': 'SUCCESS',
+'log_id': 2565892520135,
+'timestamp': 1594792089,
+'cached': 0,
+'result': {'face_num': 1,
+           'face_list': [{'face_token': '027d8308a2ec665acb1bdf63e513bcb9',
+                          'location': {'left': 97.35,
+                                        'top': 83.68,
+                                        'width': 99,
+                                        'height': 89,
+                                        'rotation': -13},
+                          'face_probability': 1,
+                          'angle': {'pitch': -5.8, 'roll': -14.62, 'yaw': -16.19},
+                          'face_shape': {'type': 'round', 'probability': 0.43},
+                          'face_type': {'type': 'human', 'probability': 1}
+                          }]
+           }
+}
+

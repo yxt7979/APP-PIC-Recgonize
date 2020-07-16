@@ -1,0 +1,12 @@
+这是对应的Test_spaceAPI_CpfrmBaidu.py的JSON返回值
+
+"E:\Gluttonous Snake\Scripts\python.exe" E:/工作啊/竞赛/API_test/Test_spaceAPI_CpfrmBaidu.py
+{'log_id': 2801577549628399855,
+'result_num': 5,
+'result': [{'score': 0.888714, 'root': '建筑-教室', 'keyword': '多媒体教室'},
+           {'score': 0.704946, 'root': '人物活动-会议学习活动', 'keyword': '多媒体网络教室'},
+           {'score': 0.425991, 'root': '人物活动-会议学习活动', 'keyword': '学术报告厅'},
+           {'score': 0.244454, 'root': '商品-电脑办公', 'keyword': '投影布'},
+           {'score': 0.047069, 'root': '建筑-教室', 'keyword': '教室'}]}
+
+
