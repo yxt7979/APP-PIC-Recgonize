@@ -29,6 +29,7 @@ It can help you Identify the content and scene of the images.
 
 Here's the vedio of the run time.              
 [vplayer url="https:\/\/littlefisher.oss-cn-beijing.aliyuncs.com\/Pic_Music%20%281%29.mp4"  /]       
+(视频用了四倍速，所以提示音很尖锐，为了让音乐还是音乐（四倍速的音乐听得我头疼），我剪辑的时候让放音乐的部分仍保持原速，我可真是小天使hhhhhh)         
 
 ### About        
 Based on the App I write yesterday. I update it to find a music and play it through a picture.        
